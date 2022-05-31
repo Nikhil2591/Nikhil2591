@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Shah
 - 👀 I’m interested in Front end development and Full stack development
-- 🌱 I’m currently learning Vue Js, Laravel 
+- 🌱 I’m currently learning Next Js 
 - 💞️ I’m looking to collaborate on team based projects with other developers
 - 📫 How to reach me on nikhilshahdev@gmail.com
 
